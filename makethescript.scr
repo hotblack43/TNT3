@@ -1,0 +1,1 @@
+tar zcvf scripts.tar.gz /home/pi/upload_*.scr /home/pi/bin/get_*.sh /home/pi/bin/graph_*.pl /home/pi/crontab.txt2 /home/pi/Sensors/ /home/pi/PUT /home/pi/GET
